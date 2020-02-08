@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+body {
+    background-image: url(https://bit.ly/3bmquWj);
+    background-repeat: no-repeat;
+    background-size: 200%;
+    height: 100vh;
+}
+ul li a{
+    color: black;
+    padding: 9px 18px;
+    border: solid black;
+}
