@@ -17,6 +17,18 @@ body {
     float: initial;
     background-color: lawngreen;
 }
+.intrests   {
+    font-weight: bolder;
+    
+}
+.hobbies  {
+    font-style: italic;
+    
+}
+h5 {
+    font-size: 22px;
+    color: maroon;
+}
 
 .test-box {
     border: 4px lightgray;
@@ -24,5 +36,9 @@ body {
     padding bottom: 40px;
     margin: 40px
 
+}
+h3 {
+    font-size: 24px;
+    color: midnightblue;
 }
 
