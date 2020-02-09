@@ -11,3 +11,18 @@ body {
 body {
     font-family: sans-serif;
 }
+
+.sidebar {
+    width: 50%;
+    float: initial;
+    background-color: lawngreen;
+}
+
+.test-box {
+    border: 4px lightgray;
+    padding top: 60px;
+    padding bottom: 40px;
+    margin: 40px
+
+}
+
